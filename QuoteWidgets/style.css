@@ -1,0 +1,11 @@
+body {
+    background-color: #222233;
+    color: #AACCFF;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 150px;
+    overflow: hidden;
+    border-radius: 1rem;
+    -webkit-app-region: drag; 
+    cursor: pointer;
+    /* Allow drag for application  */
+}
